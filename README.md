@@ -4,7 +4,7 @@ Log activity
 
 | No | Date | Member | Task | Source / search / AI prompt used | Output / GitHub link |
 |----|------|--------|------|----------------------------------|----------------------|
-| 1  | 15/11/2026 | Izanee | Research about monolith | https://youtu.be/dV3wAe8HV7Q?si=la-uNwmT7Y-1mnkJ |                      |
+| 1  | 15/11/2026 | Izanee | Research about HOTS | https://byusufw.medium.com/high-order-thinking-skills-1-ebac20fe132c |                      |
 | 2  |  16/11/2026    | TeoErnHan  | Research about  speaker's experience     |   https://cent-ti.com.my/zahari-othman/                               |                      |
 | 3  |      |        |      |                                  |                      |
 | 4  |      |        |      |                                  |                      |
