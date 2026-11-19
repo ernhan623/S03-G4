@@ -11,3 +11,4 @@ Log activity
 | 5  |   17/11/2026   |   Kirrtaana     |  Research on HOTS     |     https://youtu.be/PXDoMfLRm3c?si=IE6g5y2WaBBafNBL                            |                      |
 | 6 | 18/11/2026 | Izanee | Research on HOTS | https://www.researchgate.net/publication/350075972_Higher-Order_Thinking_Skills_in_Shaping_the_Future_of_Students | |
 | 7 | 18/11/2026 | Kirrtaana | Understanding meaning of analysis | https://ccecc.acm.org/assessment/blooms?utm_source |
+| 8 | 18/11/2026 | Kirrtaana | Research on monolith and microservices | https://docs.aws.amazon.com/wellarchitected/2023-10-03/framework/rel_service_architecture_monolith_soa_microservice.html?utm_source |
