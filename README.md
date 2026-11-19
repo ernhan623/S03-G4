@@ -10,3 +10,4 @@ Log activity
 | 4  | 17/11/2026   | Alvin|Finding paper on creative thinking |[Bing: Dr Zahari Othman Creative thinking Paper](https://www.bing.com/search?q=dr+zahari+othman+creative+thinking+paper&qs=n&form=QBRE&sp=-1&lq=0&pq=dr+zahari+othman+creative+thinking+paper)|  https://www.sinardaily.my/article/188980/opinions/columnists/teaching-of-thinking|                      
 | 5  |   17/11/2026   |   Kirrtaana     |  Research on HOTS     |     https://youtu.be/PXDoMfLRm3c?si=IE6g5y2WaBBafNBL                            |                      |
 | 6 | 18/11/2026 | Izanee | Research on HOTS | https://www.researchgate.net/publication/350075972_Higher-Order_Thinking_Skills_in_Shaping_the_Future_of_Students | |
+| 7 | 18/11/2026 | Kirrtaana | Understanding meaning of analysis | https://ccecc.acm.org/assessment/blooms?utm_source |
